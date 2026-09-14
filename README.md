@@ -15,7 +15,6 @@ I am currently Working on SIH2026Project YatraSense <br>I am Currently doing 10 
 ### ✍️ My favorite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aaradhya1998&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
