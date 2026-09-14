@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Aaradhya1998:
 I am currently Working on SIH2026Project YatraSense <br>I am Currently doing 10 ML project series Under Encore20 2026 Challenge where i make 20 Tech/Python project till the end of 2026 <br>I make thing out of no where and try to understand everything and make everything for my self<br>cause Rather than buying something i can make it out of my own
 
 
